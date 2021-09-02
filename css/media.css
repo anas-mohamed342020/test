@@ -1,0 +1,28 @@
+@media (max-width: 767px) {
+  footer .copyright {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .under-image p,
+  .under-image h3 {
+    font-size: 8px !important;
+  }
+  h1
+  {
+    font-size: 36px;
+  }
+  
+}
+@media (max-width:700px) {
+    .footer-copyright .copyright{
+        display: flex;
+        justify-content: center;
+    }
+    .footer-socialfooter-social     {
+        justify-content: center;
+    }
+    .copyrightcopyright
+    {
+        justify-content: center;
+    }
+}
