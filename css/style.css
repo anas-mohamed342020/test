@@ -16,6 +16,9 @@ body {
 .main-bg-color {
   background-color: #f25454 !important;
 }
+.main-bg-color {
+  background-color: #f25454 !important;
+}
 h1,
 .h1,
 h2,
@@ -29,6 +32,7 @@ h5,
 h6,
 .h6 {
   font-family: "Poppins", sans-serif;
+  
 }
 h1 {
   font-size: 70px;
